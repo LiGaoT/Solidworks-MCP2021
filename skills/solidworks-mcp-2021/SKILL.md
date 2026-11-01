@@ -1,5 +1,5 @@
 ---
-name: solidpilot-solidworks-2021
+name: solidworks-mcp-2021
 description: Use a SolidWorks MCP server to create, edit, and verify CAD parts, assemblies, and drawings in SolidWorks 2021. Apply when a user asks for SolidWorks MCP modeling or a 2021 compatibility check; requires a running MCP adapter and SolidWorks 2021.
 ---
 
